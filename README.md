@@ -15,7 +15,7 @@ This is an application where users can track the carbohydrates for their meals. 
 * [Questions](#questions) 
 ## Installation: 
 
-[Click here for deployed app](******AddHerokuLinkHere******) 
+[Click here for deployed app](https://infinite-stream-14480.herokuapp.com/login) 
 
 Or you can run it locally:
 * You will need to have Node.js and MySQL installed. 
