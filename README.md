@@ -29,7 +29,7 @@ Or you can run it locally:
 ## Usage: 
 From the landing page you can choose to either sign up or sign in.  Once signed in users can search for a food and results with carbohydrate content will be shown.  Clicking on the plus button to the left of the food name will add it to the user's current meal.  Clicking on the heart in the current meal view will add that food to a users favorite.  Users can also view a list of their favorites as well as a list of their previously saved meals. In the current meal view, there is a running tally of the total carbohydrates for the meal. Once the current meal contains all foods you will be eating, you can add a meal name and save it and the current meal section will be clear and ready for your next meal. Clicking on a title of a previous meal in the saved meal view will show all the individual foods the meal contained and clicking on the plus button will add the foods to a new current meal.  
 
-![Screenshot](**add screenshot here**********)
+![Screenshot](./assets/CarboLoaderScreenshot.jpg)
 
 ## Future Development0:
 We look forward to adding the ability for users to enter their own custom foods,  giving the option to display the total dietary fiber of the current meal, the also the option for a user to view the net carbohydrates (total carbohydrates minus the dietary fiber). 
